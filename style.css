@@ -1,0 +1,14 @@
+body {
+  font-family:Helvetica, Arial, serif;
+}
+
+p { font-weight:200; }
+
+b { font-weight:bold; }
+
+i { font-style:italic; }
+
+a {
+  font-style:italic;
+  color: #3ba1c2;
+}
